@@ -1,6 +1,6 @@
 <a href="https://codeclimate.com/github/arthurjunior250/Github_workflow/maintainability"><img src="https://api.codeclimate.com/v1/badges/44f0ada364d72e14ce81/maintainability" /></a>
 <a href="https://codeclimate.com/github/arthurjunior250/Github_workflow/test_coverage"><img src="https://api.codeclimate.com/v1/badges/44f0ada364d72e14ce81/test_coverage" /></a>
-[![react CI/CD](https:github.com/arthurjunior250/Github_workflow/actions/workflows/react.yml/badge.svg)](https://github.com/arthurjunior250/Github_workflow/actions/workflows/react.yml)
+[![react CI/CD](https://github.com/arthurjunior250/work/actions/workflows/node.js.yml/badge.svg)](https://github.com/arthurjunior250/My-Brand-API/actions/workflows/node.js.yml)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
